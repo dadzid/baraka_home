@@ -220,7 +220,7 @@ $app_name = idx($app_info, 'name', '');
         </p>
 
         <div id="share-app">
-          <p>Share your app:</p>
+          <p>Podziel siê swoj± app:</p>
           <ul>
             <li>
               <a href="#" class="facebook-button" id="postToWall" data-url="<?php echo AppInfo::getUrl(); ?>">

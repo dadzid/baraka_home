@@ -224,7 +224,7 @@ $app_name = idx($app_info, 'name', '');
           <ul>
             <li>
               <a href="#" class="facebook-button" id="postToWall" data-url="<?php echo AppInfo::getUrl(); ?>">
-                <span class="plus">Post to Wall</span>
+                <span class="plus">Umie¶æ na tablicy</span>
               </a>
             </li>
             <li>

@@ -229,7 +229,7 @@ $app_name = idx($app_info, 'name', '');
             </li>
             <li>
               <a href="#" class="facebook-button speech-bubble" id="sendToFriends" data-url="<?php echo AppInfo::getUrl(); ?>">
-                <span class="speech-bubble">Send Message</span>
+                <span class="speech-bubble">Wyslij wiadomosc</span>
               </a>
             </li>
             <li>
